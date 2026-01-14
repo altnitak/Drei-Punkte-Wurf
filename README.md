@@ -46,6 +46,9 @@ Die Daten wurden umfassend bereinigt und vereinheitlicht:
 - Umgang mit fehlenden Werten in laufenden Saisons
 - Aggregation auf **Team-Saison-Ebene**
 
+Die ursprünglich per Web Scraping erhobenen Rohdaten wurden unmittelbar nach der Erhebung konsolidiert und bereinigt.  
+Daher liegen im Repository ausschließlich die bereinigten und aggregierten Datensätze vor.
+
 Das Ergebnis ist eine konsistente, analysereife Master-Tabelle.
 
 ---
