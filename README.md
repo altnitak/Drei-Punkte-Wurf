@@ -145,6 +145,8 @@ Das Projekt setzt voraus, dass in der Python-Umgebung auf folgende Bibliotheken 
 - matplotlib  
 - scipy  
 - scikit-learn
+- nba_api
+- time
 
 Die benötigten Abhängigkeiten sind in der Datei `requirements.txt` aufgeführt.
 
