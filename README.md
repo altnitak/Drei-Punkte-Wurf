@@ -146,7 +146,7 @@ Das Projekt setzt voraus, dass in der Python-Umgebung auf folgende Bibliotheken 
 - scipy  
 - scikit-learn
 
-Die benötigten Abhängigkeiten sind in der Datei `requirements.txt` aufgeführt und können bei Bedarf automatisch installiert werden.
+Die benötigten Abhängigkeiten sind in der Datei `requirements.txt` aufgeführt.
 
 ---
 
