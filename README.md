@@ -169,7 +169,6 @@ Rookies2526/
 │   └── figures/
 ├── slides/
 ├── requirements.txt
-├── .gitignore
 └── README.md
 
 
