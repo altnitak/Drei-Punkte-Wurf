@@ -128,7 +128,29 @@ Ziel ist nicht Vorhersageoptimierung, sondern die Analyse relativer Feature-Bede
 
 ---
 
-## 8. Projektstruktur
+## 8. Voraussetzungen
+
+Um dieses Projekt reproduzieren zu können, werden folgende Voraussetzungen benötigt:
+
+### Entwicklungsumgebung
+- Ein Python-Workspace, z. B.  
+  - **Google Colab** (empfohlen) oder  
+  - **Visual Studio Code**
+
+### Benötigte Python-Bibliotheken
+Das Projekt setzt voraus, dass in der Python-Umgebung auf folgende Bibliotheken zugegriffen werden kann:
+
+- pandas  
+- numpy  
+- matplotlib  
+- scipy  
+- scikit-learn
+
+Die benötigten Abhängigkeiten sind in der Datei `requirements.txt` aufgeführt und können bei Bedarf automatisch installiert werden.
+
+---
+
+## 9. Projektstruktur
 
 ```text
 Rookies2526/
@@ -147,5 +169,8 @@ Rookies2526/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+
+
 
 
