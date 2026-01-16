@@ -1,4 +1,4 @@
-# 🏀 Three-Point Inflation in the NBA  
+# 🏀 Drei-Punkte Inflation in the NBA  
 ## Where is the limit?
 
 ## 1. Projektbeschreibung
