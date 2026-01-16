@@ -126,7 +126,7 @@ Ziel ist nicht Vorhersageoptimierung, sondern die Analyse relativer Feature-Bede
 
 - Die Saison 2025/26 ist zum Analysezeitpunkt noch nicht vollständig abgeschlossen.
 - Die Analyse erfolgt auf Team-Ebene und berücksichtigt keine spielerspezifischen Effekte.
-- Kontextfaktoren wie Shot Difficulty oder defensive Adjustments können nur indirekt abgebildet werden.
+- Kontextfaktoren wie Shot Difficulty oder defensive Adjustments können nur indirekt oder garnicht abgebildet werden.
 
   
 ---
