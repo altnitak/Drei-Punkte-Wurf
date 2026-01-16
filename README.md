@@ -23,6 +23,7 @@ Unser Projekt analysiert die Entwicklung des Drei-Punkte-Wurfs mit offiziellen D
 Wir teilen hierfür unser Projekt in folgende Teilfragen:
 - Wie hat sich die Anzahl der Drei-Punkte-Versuche (3PA) seit 1996 entwickelt?
 - Gibt es Hinweise auf einen Effizienzverlust bei steigendem Wurfvolumen?
+- Ist die Statistik der 3PT% überhaupt akkurat?
 - Lässt sich ein struktureller Wendepunkt um 2014/15–2015/16 identifizieren?
 - Ist der Drei-Punkte-Wurf im Jahr 2025/26 weiterhin ein zentraler Erfolgsfaktor für Teams?
 
@@ -127,11 +128,12 @@ Ziel ist nicht Vorhersageoptimierung, sondern die Analyse relativer Feature-Bede
 - Die Analyse erfolgt auf Team-Ebene und berücksichtigt keine spielerspezifischen Effekte.
 - Kontextfaktoren wie Shot Difficulty oder defensive Adjustments können nur indirekt abgebildet werden.
 
+  
 ---
 
 ## 8. Voraussetzungen
 
-Um dieses Projekt reproduzieren zu können, werden folgende Voraussetzungen benötigt:
+Um dieses Projekt erstellen zu können, werden folgende Voraussetzungen benötigt:
 
 ### Entwicklungsumgebung
 - Ein Python-Workspace, z. B.  
